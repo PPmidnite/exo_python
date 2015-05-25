@@ -5,6 +5,13 @@ exo_python
 
 Clone the Vim settings from [here](https://github.com/SenpaiSilver/dotfiles) or set your editor to use tabs instead of spaces.
 
+On Debian 8 as root:
+	
+	apt-get install python3 python3-pip
+	pip3 install flask
+
+If `pip3` doesn't work, try `pip`.
+
 ## Rules
 
 Unless specified otherwise you must commit **one** file per exercise.
