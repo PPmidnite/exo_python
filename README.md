@@ -7,8 +7,8 @@ Clone the Vim settings from [here](https://github.com/SenpaiSilver/dotfiles) or 
 
 On Debian 8 as root:
 	
-	apt-get install python3 python3-pip
-	pip3 install flask
+	# apt-get install python3 python3-pip
+	# pip3 install flask
 
 If `pip3` doesn't work, try `pip`.
 
@@ -75,6 +75,10 @@ Bonus:
 Recode a recursive `ls` just like if you ran `ls -R`.
 
 ## brewing.py
+
+SQL-Alchemy is required, install it with pip:
+
+	# pip3 install sql-alchemy
 
 Create a class mapped to the following table:
 
