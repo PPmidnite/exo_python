@@ -74,6 +74,22 @@ Bonus:
 
 Recode a recursive `ls` just like if you ran `ls -R`.
 
+## classic.py
+
+Create a `HelloWorld` class with the following constructor and methods:
+
+* `HelloWorld(msg="Hello World!")` where msg will be printed by `SayHello()`;
+* `SayHello()` prints the `msg` set in the constructor;
+* `HowToSayHello(msg)` changes the way `msg` says hello.
+
+## MuhRequests.py
+
+Send a GET request to `https://raw.githubusercontent.com/PPmidnite/exo_python/master/MuhRequest.json` to get JSON and print it with a for loop.
+
+Output must be like:
+
+	CODE404	=>	Not Found.
+
 ## brewing.py
 
 SQL-Alchemy is required, install it with pip:
