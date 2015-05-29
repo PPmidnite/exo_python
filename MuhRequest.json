@@ -1,0 +1,5 @@
+{
+	"code404": "Not Found",
+	"code500": "Internal server error",
+	"code200": "OK"
+}
